@@ -15,7 +15,7 @@ Js, html, css, git
 NP-service - system analyst
 
 **Education:**
- higher education
+Higher education
 
 **English language:**
  А-2
